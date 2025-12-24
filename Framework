@@ -1,0 +1,24 @@
+# ODDS — Core Digital Design Suite (DDS)
+
+The One-stop Digital Design Suite (DDS). Manna From Heaven for the digital world. Powered by the WE-i!™ methodology.
+
+This repository contains the core framework for ODDS — a modular design & delivery platform including:
+- Core library (APIs, data models, utilities)
+- Design System (React components, tokens, Storybook)
+- Asset & brand management (logos, guidelines)
+- CLI and scaffolding for new projects
+
+Goals
+- Provide a single, reusable source of truth for design tokens, components, and platform APIs.
+- Enable designers and developers to ship consistent digital experiences quickly.
+- Make ODDS components and assets easy to discover, test, and reuse.
+
+Quick start (developer)
+1. Install dependencies:
+   - npm install
+2. Start development (core + design system):
+   - npm run dev
+3. Run tests:
+   - npm test
+
+See docs/ARCHITECTURE.md and docs/ROADMAP.md for details.

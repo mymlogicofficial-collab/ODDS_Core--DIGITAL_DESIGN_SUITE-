@@ -21,7 +21,8 @@ We believe that true power lies in the equation where the individual (**i**) amp
 This is a living architecture. We are currently in **Phase 1: The Logic Launch**.
 
 * **Sponsor the Build:** [Become a Partner](https://github.com/sponsors/mymlogicofficial-collab)
-* **Join the Equation:** Are YOU the **i** in **WE-i!™**?
+* **Join the Equation:** Are YOU the **i** in **WE&#8209;i!™**?
+
 
 ---
 
